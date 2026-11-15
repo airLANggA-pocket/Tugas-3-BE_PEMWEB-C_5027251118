@@ -1,0 +1,15 @@
+{
+  "name": "tugas-3-manajemen-produk-be",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend REST API Manajemen Produk (Express)",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.0.0"
+  }
+}
