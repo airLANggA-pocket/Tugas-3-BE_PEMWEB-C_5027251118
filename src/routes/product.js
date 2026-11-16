@@ -8,7 +8,7 @@ import {
   getProduct,
   listProducts,
   updateProduct,
-} from "../controllers/products.js";
+} from "../controllers/product.js";
 
 const router = Router();
 
